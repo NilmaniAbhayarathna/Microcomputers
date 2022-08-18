@@ -54,7 +54,8 @@ Finally, the pic16F877A was connected to the circuit and powered on.
                       
 <li>When all three sensors were on, the first motor stopped working and the second motor started working only for 500ms.
   
-  
+ 
+## DISCUSSION
   
 ### topic
 
