@@ -32,6 +32,8 @@ The operations of the two DC motors according to the switch state is given in th
                   <li>PicKit3
                     <li>MPLAB IDE Software
                 
+                      
+                      
 ## PROCEDURE
 firstly, the PCB layout was designed and printed.
 
@@ -41,9 +43,19 @@ Next, the pic16F877A was programmed as required using PicKit3 and MPLAB IDE soft
 
 Finally, the pic16F877A was connected to the circuit and powered on.
                       
+                      
+                      
 ## OBSERVATION
-Both motors were not working when all three sensors were off.
-When the first sensor was on only the 
+<li>Both motors were not working when all three sensors were off.
+                      
+<li>When the first sensor was on, only the first motor started working.
+                      
+<li>When the first and second sensors were on, only the first motor was working.
+                      
+<li>When all three sensors were on, the first motor stopped working and the second motor started working only for 500ms.
+  
+  
+  
 ### topic
 
 <img src = "https://user-images.githubusercontent.com/111268465/184587552-fe609a2f-3607-4c9f-ae7a-fe016c39a5e2.png" width = "500" height = "200" />
