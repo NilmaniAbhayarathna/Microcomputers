@@ -16,7 +16,7 @@ The operations of the two DC motors according to the switch state is given in th
 <image src = "https://user-images.githubusercontent.com/111268465/185362506-5dec6287-6b1c-4bd1-bbe5-c5014c13f298.png" width = "500" height = "100" />
 
 ## APPARATUS
-<li>PCB - 1
+<li>Designed PCB Layout
 <li>Pic16F877A - 1
   <li>Breadboard - 1
     <li>DC Batteries(1.5V) - 2
@@ -30,9 +30,20 @@ The operations of the two DC motors according to the switch state is given in th
               <li>5V Relay - 1
                 <li> Jumper Wires 
                   <li>PicKit3
-                  
+                    <li>MPLAB IDE Software
+                
+## PROCEDURE
+firstly, the PCB layout was designed and printed.
 
+The necessary circuit was then created by connecting the components.
 
+Next, the pic16F877A was programmed as required using PicKit3 and MPLAB IDE software.
+
+Finally, the pic16F877A was connected to the circuit and powered on.
+                      
+## OBSERVATION
+Both motors were not working when all three sensors were off.
+When the first sensor was on only the 
 ### topic
 
 <img src = "https://user-images.githubusercontent.com/111268465/184587552-fe609a2f-3607-4c9f-ae7a-fe016c39a5e2.png" width = "500" height = "200" />
