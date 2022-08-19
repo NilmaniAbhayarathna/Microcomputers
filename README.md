@@ -4,7 +4,7 @@ Lab-04
 ## OBJECTIVES
 Develop a small water level controlling system of a water tank using the knowledge of interrupts and other programming techniques of PIC16f877a
 
-## Introduction
+## INTRODUCTION
 
 ## TASK
 Below is a water tank that has two DC motors where the motor one is used to pump the water into the tank the motor two is used to suck the water out from the water tank and there are three sensors that are used to measure the water level of the tank.
