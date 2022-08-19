@@ -1,5 +1,9 @@
 # Microcomputers - EC2131
-Lab-04
+## Lab-04 - Group 17
+EN21479564 - Edirisooriya D. M. A. I.
+EN21478406 - Abhayarathna R. H. M. N. S
+EN21480768 - Jayasekara R. N. K.
+
 
 ## OBJECTIVES
 Develop a small water level controlling system of a water tank using the knowledge of interrupts and other programming techniques of PIC16f877a
