@@ -5,6 +5,13 @@ Lab-04
 Develop a small water level controlling system of a water tank using the knowledge of interrupts and other programming techniques of PIC16f877a
 
 ## INTRODUCTION
+The task was to design a circuit and program it with a PIC16F877A.
+
+One of the most well-known microcontrollers in the industry is the PIC microcontroller PIC16f877a. It is quite easy to code or program this microcontroller, and it is also very convenient to use. The fact that it employs FLASH memory technology is one of its key advantages because it allows for unlimited write-erase cycles. There are 33 input and output pins out of a total of 40 pins on it. Numerous applications with pic microcontrollers use the PIC16F877A. PIC16F877A are widely used in digital electrical circuits as well.
+
+<image src = "https://user-images.githubusercontent.com/111268465/185557347-3b599ba4-1a1a-421f-b935-e778d859f728.png" width = 300 height = 200>
+  
+
 
 ## TASK
 Below is a water tank that has two DC motors where the motor one is used to pump the water into the tank the motor two is used to suck the water out from the water tank and there are three sensors that are used to measure the water level of the tank.
@@ -36,12 +43,22 @@ The operations of the two DC motors according to the switch state is given in th
                       
 ## PROCEDURE
 firstly, the PCB layout was designed and printed.
-
-The necessary circuit was then created by connecting the components.
-
+                      
 Next, the pic16F877A was programmed as required using PicKit3 and MPLAB IDE software.
+                      
+<image src = "https://user-images.githubusercontent.com/111268465/185560137-bc5c0ca4-d3ac-4a09-872d-af1f8b2f615d.jpg" width = 600 height = 300>
+<image src = "https://user-images.githubusercontent.com/111268465/185560381-55626a37-f3db-4fcb-8edd-34b9a87d29e4.jpg" width = 600 height = 300>
 
-Finally, the pic16F877A was connected to the circuit and powered on.
+
+Finally, the necessary circuit was created by connecting the components and the pic16F877A was connected to the circuit and powered on.
+
+<image src = "https://user-images.githubusercontent.com/111268465/185557954-21cf6e88-18b2-4fa1-8e88-e73a8637276c.jpg" width = 200 height = 300>
+  
+                        
+
+
+
+ 
                       
                       
                       
@@ -56,6 +73,9 @@ Finally, the pic16F877A was connected to the circuit and powered on.
   
  
 ## DISCUSSION
+  
+## CONCLUSION
+This lab was completed as group work, which improved our capacity for teamwork. We encountered a variety of challenges while we created the code and designed the circuit. Especially while we were performing the hardware demonstration, it was a terrific experience to identify mistakes and decide how to fix them as a group. We were able to understand the behavior of the pic16f877a and other components properly. In conclusion, the task was completed satisfactorily, and the result was what was expected.
   
 ### topic
 
