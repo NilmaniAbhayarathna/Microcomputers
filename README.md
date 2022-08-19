@@ -77,18 +77,7 @@ Finally, the necessary circuit was created by connecting the components and the 
 ## CONCLUSION
 This lab was completed as group work, which improved our capacity for teamwork. We encountered a variety of challenges while we created the code and designed the circuit. Especially while we were performing the hardware demonstration, it was a terrific experience to identify mistakes and decide how to fix them as a group. We were able to understand the behavior of the pic16f877a and other components properly. In conclusion, the task was completed satisfactorily, and the result was what was expected.
   
-### topic
 
-<img src = "https://user-images.githubusercontent.com/111268465/184587552-fe609a2f-3607-4c9f-ae7a-fe016c39a5e2.png" width = "500" height = "200" />
-
-<b> topic </b>
-
-<ul>
-  
-  <li> sfjsfjf
-    <li>  dadafdffs
-      
-      </ul>
 
 
 
