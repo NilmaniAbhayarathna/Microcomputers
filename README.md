@@ -13,7 +13,7 @@ One of the most well-known microcontrollers in the industry is the PIC microcont
   
 
 
-## TASK
+### TASK
 Below is a water tank that has two DC motors where the motor one is used to pump the water into the tank the motor two is used to suck the water out from the water tank and there are three sensors that are used to measure the water level of the tank.
 
 <image src = "https://user-images.githubusercontent.com/111268465/185360443-1f7e43f5-4da9-4d61-a541-792ddff3428b.png" width = "500" height = "250" />
@@ -43,6 +43,9 @@ The operations of the two DC motors according to the switch state is given in th
                       
 ## PROCEDURE
 firstly, the PCB layout was designed and printed.
+                      
+<image src = "https://user-images.githubusercontent.com/111268465/185646779-c21434e8-7ef7-45c2-9125-10dd60581d5a.jpg" width = 300 height = 250>
+
                       
 Next, the pic16F877A was programmed as required using PicKit3 and MPLAB IDE software.
                       
