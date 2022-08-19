@@ -73,6 +73,7 @@ Finally, the necessary circuit was created by connecting the components and the 
   
  
 ## DISCUSSION
+Working in this laboratory caused certain challenges for us. Human and equipment mistake are the causes of these problems. We printed the wrong side of the PCB and connected it incorrectly the first time we printed it. Sensors and switches are employed in this circuit. In order to use switches and sensors, we had to update the code. In addition, there were a few issues with power delivery. 5V had to be delivered, but it couldn't be provided in a reliable manner. Several approaches were tried until a relay module was able to supply the necessary electricity.
   
 ## CONCLUSION
 This lab was completed as group work, which improved our capacity for teamwork. We encountered a variety of challenges while we created the code and designed the circuit. Especially while we were performing the hardware demonstration, it was a terrific experience to identify mistakes and decide how to fix them as a group. We were able to understand the behavior of the pic16f877a and other components properly. In conclusion, the task was completed satisfactorily, and the result was what was expected.
