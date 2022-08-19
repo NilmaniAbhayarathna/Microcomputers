@@ -1,7 +1,9 @@
 # Microcomputers - EC2131
-## Lab-04 - Group 17
+## Lab 04 - Group 17
 EN21479564 - Edirisooriya D. M. A. I.
+
 EN21478406 - Abhayarathna R. H. M. N. S
+
 EN21480768 - Jayasekara R. N. K.
 
 
